@@ -1,0 +1,33 @@
+{
+  "books": [
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Thirller",
+      "price": 12.99,
+      "id": "83ae"
+    },
+    {
+      "title": "Alexander The Great",
+      "author": "Luvis Mick",
+      "genre": "History",
+      "price": "850",
+      "id": "3eca"
+    },
+    {
+      "title": "Too Good to Be True",
+      "author": "Prajakta Koli",
+      "genre": "Fiction",
+      "price": "800",
+      "id": "9349"
+    },
+    {
+      "id": "8a2e",
+      "title": "The Daughters of Madurai",
+      "author": "Rajasree Variyar",
+      "genre": "History",
+      "price": "489"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
